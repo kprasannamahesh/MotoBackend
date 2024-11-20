@@ -2,5 +2,5 @@
 
 A Backend Project for the Car Service.
 ### Uses the following stack
-Django
-MongoDB
+Backend Framework:Fast API
+Database:MongoDB
